@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://joovaethae.apphands.com/sitemap.xml
